@@ -1,0 +1,2 @@
+[![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react)](https://reactjs.org/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-brightgreen?logo=githubpages)](https://AlejoRuso.github.io/crud_react/)
